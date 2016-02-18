@@ -10,3 +10,9 @@
   border-radius: 25px;
   padding: 10px;
 }
+.derping img {
+  height: 50%;
+  float: left;
+  vertical-align: middle;
+  margin: 5px;
+}
