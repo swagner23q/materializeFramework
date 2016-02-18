@@ -1,0 +1,12 @@
+.derp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 10px;
+}
+.derpMessage {
+  border: 1px dotted black;
+  border-radius: 25px;
+  padding: 10px;
+}
